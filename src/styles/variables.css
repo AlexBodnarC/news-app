@@ -1,0 +1,30 @@
+:root {
+  --bg-color: #f2f2f2;
+  --text-color: #111827;
+  --primary-color: #6fbae0;
+  --header-bg-color: #fff;
+  --footer-bg-color: #3c3f43;
+  --footer-color: #fff;
+  --news-title-color: #b4b5b9;
+  --card-hover-bg-color: #fff;
+  --tag-bg-color: #b1b2b6;
+  --tag-color: #fff;
+  --banner-bg-color: #fff;
+  --input-bg-color: #f9fafb;
+  --input-border-color: #d1d5db;
+  --input-error-color: #ef4444;
+  --skeleton-bg-color: #e0e0e0;
+  --menu-bg-color: #fff;
+  --btn-color: #fff;
+
+  --shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+
+  --font-sans: sans-serif;
+
+  --content-width: 1200px;
+  --nav-width: 1400px;
+  --nav-height: 60px;
+  --footer-height: 80px;
+
+  --transition: all 150ms ease-in-out;
+}
